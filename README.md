@@ -5,7 +5,7 @@ This project provides a Rust implementation for reading information from Thai na
 ## Features
 
 - Extract essential information from Thai national ID cards.
-- open websocket prepare send data other client
+- Open websocket prepare send data other client
 - Uses Rust for high performance and safety.
 - Designed for compatibility with commonly used card readers in Thailand.
 
