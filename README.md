@@ -18,18 +18,18 @@ This project provides a Rust implementation for reading information from Thai na
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/supaatwi/thai-card-reader-rust.git
    cd thai-card-reader-rust
-   ```
+```
 2. Install Rust dependencies:
-  ```bash
+```bash
   cargo build
-  ```
+```
 
 ## Usage
 1. Connect your Thai ID card reader to the computer.
 2. Run the application to start reading data:
-   ```bash
+```bash
    cargo run
-   ```
+```
